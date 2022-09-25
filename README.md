@@ -1,8 +1,11 @@
 # THM-DL ??
 A python oriented program to Download and Fetch Valid/Invalid TryHackMe Certificates.
 
-
-## Run Program
+### FEATURES
+ - Check Valid/Invalid Certificates
+ - Download Certificates
+ 
+### Run Program
 
 Open your favorite Terminal and run these commands.
 
@@ -24,3 +27,4 @@ python3 thm.py
 <Enter Certificate Number>
 Example : THM-DA1JZRCRER
 ```
+
