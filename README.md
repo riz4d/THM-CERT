@@ -1,4 +1,4 @@
-# THM-DL ??
+# THM-CERT ??
 A python oriented program to Download and Fetch Valid/Invalid [TryHackMe](https://tryhackme.com/) Certificates.
 
 ### FEATURES
